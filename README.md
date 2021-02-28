@@ -48,7 +48,7 @@ Pronto para colocar em produção? Dá uma olhada nos [guias de deploy](https://
 - Documentação: [https://hexdocs.pm/phoenix](https://hexdocs.pm/phoenix)
 - Fórum: [https://elixirforum.com/c/phoenix-forum](https://elixirforum.com/c/phoenix-forum)
 - GitHub: [https://github.com/phoenixframework/phoenix](https://github.com/phoenixframework/phoenix)
-- Anotações do Projeto: [https://www.notion.so/danielvini/Aula-5-7ab1904fbb7a4140bd788f8afd17fd06](https://www.notion.so/danielvini/Aula-5-7ab1904fbb7a4140bd788f8afd17fd06)
+- Anotações do Projeto: [https://www.notion.so/danielvini/Elixir-b05681c310d64ba9b686e542b2ecf934](https://www.notion.so/danielvini/Elixir-b05681c310d64ba9b686e542b2ecf934)
 
 ## 📄 Licença
 
