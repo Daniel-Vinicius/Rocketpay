@@ -1,33 +1,5 @@
 defmodule Rocketpay.Accounts.Transactions.Response do
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   alias Rocketpay.Account
-
-
-
-
-
-
 
   defstruct [:from_account, :to_account]
 
@@ -37,5 +9,4 @@ defmodule Rocketpay.Accounts.Transactions.Response do
       to_account: to_account
     }
   end
-
 end
